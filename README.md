@@ -2,6 +2,9 @@
 
 This is a minor update to trigger GitHub Actions workflow.
 
+# Assignment #2: TechFlow Solutions
+[![Deploy to GitHub Pages](https://github.com/oskarkrzyzak/assignment2-techflow/actions/workflows/deploy.yml/badge.svg)](https://github.com/oskarkrzyzak/assignment2-techflow/actions/workflows/deploy.yml)
+
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
 ## Project Structure
@@ -85,6 +88,8 @@ This is a learning project for practicing collaborative development workflows. F
 ## License
 
 This project is for educational purposes.
+
+
 
 ---
 
